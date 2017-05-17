@@ -1,0 +1,115 @@
+E:\fyp\Temp\bin\Debug\Assembly-CSharp.dll
+E:\fyp\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\fyp\Temp\bin\Debug\Mono.Data.Sqlite.dll
+E:\fyp\Temp\bin\Debug\System.Data.dll
+E:\fyp\Temp\bin\Debug\UnityEditor.dll
+E:\fyp\Temp\bin\Debug\UnityEngine.dll
+E:\fyp\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\fyp\Temp\bin\Debug\UnityEngine.UI.dll
+E:\fyp\Temp\bin\Debug\Mono.Cecil.dll
+E:\fyp\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\fyp\Temp\bin\Debug\Unity.DataContract.dll
+E:\fyp\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\fyp\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\fyp\Temp\bin\Debug\Unity.CecilTools.dll
+E:\fyp\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\fyp\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\fyp\Temp\bin\Debug\UnityEngine.xml
+E:\fyp\Temp\bin\Debug\UnityEditor.xml
+E:\fyp\Temp\bin\Debug\UnityEngine.UI.xml
+E:\fyp\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\fyp\obj\Debug\Assembly-CSharp.dll
+E:\fyp\obj\Debug\Assembly-CSharp.pdb
+E:\fyp\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\fyp - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+E:\fyp - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\fyp - Copy\Temp\bin\Debug\Mono.Data.Sqlite.dll
+E:\fyp - Copy\Temp\bin\Debug\System.Data.dll
+E:\fyp - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\fyp - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\fyp - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\fyp - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\fyp - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\fyp - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\fyp - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\fyp - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\fyp - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\fyp - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\fyp - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\fyp - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\fyp - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\fyp - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\fyp - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\fyp - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\fyp - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\fyp - Copy\obj\Debug\Assembly-CSharp.dll
+E:\fyp - Copy\obj\Debug\Assembly-CSharp.pdb
+D:\Fyp - Copy - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Fyp - Copy - Copy\Temp\bin\Debug\Mono.Data.Sqlite.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\System.Data.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\UnityEditor.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\UnityEngine.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\Mono.Cecil.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\Unity.DataContract.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Fyp - Copy - Copy\Temp\bin\Debug\UnityEngine.xml
+D:\Fyp - Copy - Copy\Temp\bin\Debug\UnityEditor.xml
+D:\Fyp - Copy - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Fyp - Copy - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Fyp - Copy - Copy\obj\Debug\Assembly-CSharp.dll
+D:\Fyp - Copy - Copy\obj\Debug\Assembly-CSharp.pdb
+D:\Fyp - Copy - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\System.Data.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\obj\Debug\Assembly-CSharp.dll
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Lenovo\Desktop\TempFolder\fyp2-5-17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\preschool learning system\TempFolder\fyp2-5-17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\preschool learning system\TempFolder\fyp2-5-17\obj\Debug\Assembly-CSharp.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\obj\Debug\Assembly-CSharp.pdb
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\Assembly-CSharp.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\Mono.Data.Sqlite.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\System.Data.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEditor.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.UI.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\Mono.Cecil.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\Unity.DataContract.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\Unity.CecilTools.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.xml
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEditor.xml
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.UI.xml
+D:\preschool learning system\TempFolder\fyp2-5-17\Temp\bin\Debug\UnityEngine.Networking.xml
